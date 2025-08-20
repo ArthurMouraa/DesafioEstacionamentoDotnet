@@ -27,7 +27,7 @@ Para executar este projeto, você precisará ter o **.NET SDK** instalado em sua
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/ArthurMouraa/DesafioEstacionamentoDotnet.git](https://github.com/ArthurMouraa/DesafioEstacionamentoDotnet.git)
+    git clone https://github.com/ArthurMouraa/DesafioEstacionamentoDotnet.git
     ```
 
 2.  **Navegue até o diretório do projeto:**
